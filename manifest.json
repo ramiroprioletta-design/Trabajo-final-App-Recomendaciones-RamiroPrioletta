@@ -1,0 +1,24 @@
+{
+  "short_name": "RecomendApp",
+  "name": "RecomendApp - Series para descubrir",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./index.html",
+  "scope": "./",
+  "background_color": "#110f16",
+  "theme_color": "#17131f",
+  "display": "standalone",
+  "orientation": "portrait"
+}
